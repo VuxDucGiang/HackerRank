@@ -4,7 +4,7 @@ A repository containing structured descriptions and Java solutions to HackerRank
 
 ---
 
-## 📋 Problem Set & Solutions
+## Problem Set & Solutions
 
 Here is the list of problems resolved in this repository:
 
@@ -17,7 +17,7 @@ Here is the list of problems resolved in this repository:
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 The project is structured as follows:
 
@@ -38,7 +38,7 @@ HackerRank/
 
 ---
 
-## 🚀 How to Run the Solutions
+## How to Run the Solutions
 
 To compile and run any of the solutions locally:
 
