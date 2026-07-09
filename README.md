@@ -16,6 +16,7 @@ Here is the list of problems resolved in this repository:
 | **`0004`** | Java If-Else | [problem_0004.md](problems/problem_0004.md) | [HackerRank](https://www.hackerrank.com/challenges/java-if-else) | [Solution.java](src/main/java/problem_0004/Solution.java) | `Easy` |
 | **`0005`** | Java Output Formatting | [problem_0005.md](problems/problem_0005.md) | [HackerRank](https://www.hackerrank.com/challenges/java-output-formatting) | [Solution.java](src/main/java/problem_0005/Solution.java) | `Easy` |
 | **`0006`** | Java Loops I | [problem_0006.md](problems/problem_0006.md) | [HackerRank](https://www.hackerrank.com/challenges/java-loops-i) | [Solution.java](src/main/java/problem_0006/Solution.java) | `Easy` |
+| **`0007`** | Java Datatypes | [problem_0007.md](problems/problem_0007.md) | [HackerRank](https://www.hackerrank.com/challenges/java-datatypes) | [Solution.java](src/main/java/problem_0007/Solution.java) | `Easy` |
 
 ---
 
@@ -31,14 +32,16 @@ HackerRank/
 │   ├── problem_0003.md
 │   ├── problem_0004.md
 │   ├── problem_0005.md
-│   └── problem_0006.md
+│   ├── problem_0006.md
+│   └── problem_0007.md
 ├── src/main/java/             # Java solution implementations
 │   ├── problem_0001/Solution.java
 │   ├── problem_0002/Solution.java
 │   ├── problem_0003/Solution.java
 │   ├── problem_0004/Solution.java
 │   ├── problem_0005/Solution.java
-│   └── problem_0006/Solution.java
+│   ├── problem_0006/Solution.java
+│   └── problem_0007/Solution.java
 └── README.md                  # Main overview of the repository
 ```
 
