@@ -14,6 +14,7 @@ Here is the list of problems resolved in this repository:
 | **`0002`** | Welcome to Java! | [problem_0002.md](problems/problem_0002.md) | [HackerRank](https://www.hackerrank.com/challenges/welcome-to-java) | [Solution.java](src/main/java/problem_0002/Solution.java) | `Easy` |
 | **`0003`** | Java Stdin and Stdout I | [problem_0003.md](problems/problem_0003.md) | [HackerRank](https://www.hackerrank.com/challenges/java-stdin-stdout-1) | [Solution.java](src/main/java/problem_0003/Solution.java) | `Easy` |
 | **`0004`** | Java If-Else | [problem_0004.md](problems/problem_0004.md) | [HackerRank](https://www.hackerrank.com/challenges/java-if-else) | [Solution.java](src/main/java/problem_0004/Solution.java) | `Easy` |
+| **`0005`** | Java Output Formatting | [problem_0005.md](problems/problem_0005.md) | [HackerRank](https://www.hackerrank.com/challenges/java-output-formatting) | [Solution.java](src/main/java/problem_0005/Solution.java) | `Easy` |
 
 ---
 
@@ -27,12 +28,14 @@ HackerRank/
 │   ├── problem_0001.md
 │   ├── problem_0002.md
 │   ├── problem_0003.md
-│   └── problem_0004.md
+│   ├── problem_0004.md
+│   └── problem_0005.md
 ├── src/main/java/             # Java solution implementations
 │   ├── problem_0001/Solution.java
 │   ├── problem_0002/Solution.java
 │   ├── problem_0003/Solution.java
-│   └── problem_0004/Solution.java
+│   ├── problem_0004/Solution.java
+│   └── problem_0005/Solution.java
 └── README.md                  # Main overview of the repository
 ```
 
