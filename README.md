@@ -18,6 +18,7 @@ Here is the list of problems resolved in this repository:
 | **`0006`** | Java Loops I | [problem_0006.md](problems/problem_0006.md) | [HackerRank](https://www.hackerrank.com/challenges/java-loops-i) | [Solution.java](src/main/java/problem_0006/Solution.java) | `Easy` |
 | **`0007`** | Java Datatypes | [problem_0007.md](problems/problem_0007.md) | [HackerRank](https://www.hackerrank.com/challenges/java-datatypes) | [Solution.java](src/main/java/problem_0007/Solution.java) | `Easy` |
 | **`0008`** | Java Loops II | [problem_0008.md](problems/problem_0008.md) | [HackerRank](https://www.hackerrank.com/challenges/java-loops-ii) | [Solution.java](src/main/java/problem_0008/Solution.java) | `Easy` |
+| **`0009`** | Java End-of-file | [problem_0009.md](problems/problem_0009.md) | [HackerRank](https://www.hackerrank.com/challenges/java-end-of-file) | [Solution.java](src/main/java/problem_0009/Solution.java) | `Easy` |
 
 ---
 
@@ -35,7 +36,8 @@ HackerRank/
 │   ├── problem_0005.md
 │   ├── problem_0006.md
 │   ├── problem_0007.md
-│   └── problem_0008.md
+│   ├── problem_0008.md
+│   └── problem_0009.md
 ├── src/main/java/             # Java solution implementations
 │   ├── problem_0001/Solution.java
 │   ├── problem_0002/Solution.java
@@ -44,7 +46,8 @@ HackerRank/
 │   ├── problem_0005/Solution.java
 │   ├── problem_0006/Solution.java
 │   ├── problem_0007/Solution.java
-│   └── problem_0008/Solution.java
+│   ├── problem_0008/Solution.java
+│   └── problem_0009/Solution.java
 └── README.md                  # Main overview of the repository
 ```
 
