@@ -20,6 +20,7 @@ Here is the list of problems resolved in this repository:
 | **`0008`** | Java Loops II | [problem_0008.md](problems/problem_0008.md) | [HackerRank](https://www.hackerrank.com/challenges/java-loops-ii) | [Solution.java](src/main/java/problem_0008/Solution.java) | `Easy` |
 | **`0009`** | Java End-of-file | [problem_0009.md](problems/problem_0009.md) | [HackerRank](https://www.hackerrank.com/challenges/java-end-of-file) | [Solution.java](src/main/java/problem_0009/Solution.java) | `Easy` |
 | **`0010`** | Java Static Initializer Block | [problem_0010.md](problems/problem_0010.md) | [HackerRank](https://www.hackerrank.com/challenges/java-static-initializer-block) | [Solution.java](src/main/java/problem_0010/Solution.java) | `Easy` |
+| **`0011`** | Java Int to String | [problem_0011.md](problems/problem_0011.md) | [HackerRank](https://www.hackerrank.com/challenges/java-int-to-string) | [Solution.java](src/main/java/problem_0011/Solution.java) | `Easy` |
 
 ---
 
@@ -39,7 +40,8 @@ HackerRank/
 │   ├── problem_0007.md
 │   ├── problem_0008.md
 │   ├── problem_0009.md
-│   └── problem_0010.md
+│   ├── problem_0010.md
+│   └── problem_0011.md
 ├── src/main/java/             # Java solution implementations
 │   ├── problem_0001/Solution.java
 │   ├── problem_0002/Solution.java
@@ -50,7 +52,8 @@ HackerRank/
 │   ├── problem_0007/Solution.java
 │   ├── problem_0008/Solution.java
 │   ├── problem_0009/Solution.java
-│   └── problem_0010/Solution.java
+│   ├── problem_0010/Solution.java
+│   └── problem_0011/Solution.java
 └── README.md                  # Main overview of the repository
 ```
 
