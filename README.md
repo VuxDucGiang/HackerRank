@@ -23,6 +23,7 @@ Here is the list of problems resolved in this repository:
 | **`0011`** | Java Int to String | [problem_0011.md](problems/problem_0011.md) | [HackerRank](https://www.hackerrank.com/challenges/java-int-to-string) | [Solution.java](src/main/java/problem_0011/Solution.java) | `Easy` |
 | **`0012`** | Java Date and Time | [problem_0012.md](problems/problem_0012.md) | [HackerRank](https://www.hackerrank.com/challenges/java-date-and-time) | [Solution.java](src/main/java/problem_0012/Solution.java) | `Easy` |
 | **`0013`** | Java Currency Formatter | [problem_0013.md](problems/problem_0013.md) | [HackerRank](https://www.hackerrank.com/challenges/java-currency-formatter) | [Solution.java](src/main/java/problem_0013/Solution.java) | `Easy` |
+| **`0014`** | Java Varargs - Simple Addition | [problem_0014.md](problems/problem_0014.md) | [HackerRank](https://www.hackerrank.com/challenges/simple-addition-varargs) | [Solution.java](src/main/java/problem_0014/Solution.java) | `Easy` |
 
 ---
 
@@ -45,7 +46,8 @@ HackerRank/
 │   ├── problem_0010.md
 │   ├── problem_0011.md
 │   ├── problem_0012.md
-│   └── problem_0013.md
+│   ├── problem_0013.md
+│   └── problem_0014.md
 ├── src/main/java/             # Java solution implementations
 │   ├── problem_0001/Solution.java
 │   ├── problem_0002/Solution.java
@@ -59,7 +61,8 @@ HackerRank/
 │   ├── problem_0010/Solution.java
 │   ├── problem_0011/Solution.java
 │   ├── problem_0012/Solution.java
-│   └── problem_0013/Solution.java
+│   ├── problem_0013/Solution.java
+│   └── problem_0014/Solution.java
 └── README.md                  # Main overview of the repository
 ```
 
