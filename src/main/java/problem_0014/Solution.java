@@ -10,14 +10,26 @@ import java.util.regex.*;
 class Add {
     void add(int a, int b, int... other) {
         String sumStr = String.format("%d+%d", a, b);
-        int sum = a+b;
+        int sum = a + b;
 
-        for (int i=0; i<other.length; i++) {
+        for (int i = 0; i < other.length; i++) {
             sumStr += String.format("+%d", other[i]);
             sum += other[i];
         }
 
         System.out.println(sumStr + "=" + sum);
+    }
+}
+
+class Add1 {
+    void add1(int a, int b, int... other) {
+        String sumStr = String.format("%d+%d", a, b);
+        int sum = a + b;
+        for (int i = 0; i < other.length; i++) {
+            sumStr = String.format("+%d", other[i]);
+            sum += other[i];
+        }
+        System.out.println(sumStr + '=' + sum);
     }
 }
 
