@@ -29,6 +29,7 @@ Here is the list of problems resolved in this repository:
 | **`0017`** | Java Substring Comparisons | [problem_0017.md](problems/problem_0017.md) | [HackerRank](https://www.hackerrank.com/challenges/java-substring-comparisons) | [Solution.java](src/main/java/problem_0017/Solution.java) | `Easy` |
 | **`0018`** | Java String Reverse | [problem_0018.md](problems/problem_0018.md) | [HackerRank](https://www.hackerrank.com/challenges/java-string-reverse) | [Solution.java](src/main/java/problem_0018/Solution.java) | `Easy` |
 | **`0019`** | Java Anagrams | [problem_0019.md](problems/problem_0019.md) | [HackerRank](https://www.hackerrank.com/challenges/java-anagrams) | [Solution.java](src/main/java/problem_0019/Solution.java) | `Easy` |
+| **`0020`** | Java String Tokens | [problem_0020.md](problems/problem_0020.md) | [HackerRank](https://www.hackerrank.com/challenges/java-string-tokens) | [Solution.java](src/main/java/problem_0020/Solution.java) | `Easy` |
 
 ---
 
@@ -57,7 +58,8 @@ HackerRank/
 │   ├── problem_0016.md
 │   ├── problem_0017.md
 │   ├── problem_0018.md
-│   └── problem_0019.md
+│   ├── problem_0019.md
+│   └── problem_0020.md
 ├── src/main/java/             # Java solution implementations
 │   ├── problem_0001/Solution.java
 │   ├── problem_0002/Solution.java
@@ -77,7 +79,8 @@ HackerRank/
 │   ├── problem_0016/Solution.java
 │   ├── problem_0017/Solution.java
 │   ├── problem_0018/Solution.java
-│   └── problem_0019/Solution.java
+│   ├── problem_0019/Solution.java
+│   └── problem_0020/Solution.java
 └── README.md                  # Main overview of the repository
 ```
 
