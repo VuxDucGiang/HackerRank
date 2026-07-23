@@ -1,23 +1,32 @@
-Given a string, , matching the regular expression [A-Za-z !,?._'@]+, split the string into tokens. We define a token to be one or more consecutive English alphabetic letters. Then, print the number of tokens, followed by each token on a new line.
+# [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)
 
-Note: You may find the String.split method helpful in completing this challenge.
+Given a string, $s$, matching the regular expression `[A-Za-z !,?._'@]+`, split the string into tokens. We define a token to be one or more consecutive English alphabetic letters. Then, print the number of tokens, followed by each token on a new line.
 
-Input Format
+> [!TIP]
+> You may find the `String.split` method helpful in completing this challenge.
 
-A single string, .
+## Input Format
 
-Constraints
+A single string, $s$.
 
-is composed of any of the following: English alphabetic letters, blank spaces, exclamation points (!), commas (,), question marks (?), periods (.), underscores (_), apostrophes ('), and at symbols (@).
-Output Format
+## Constraints
 
-On the first line, print an integer, , denoting the number of tokens in string  (they do not need to be unique). Next, print each of the  tokens on a new line in the same order as they appear in input string .
+- $1 \le \text{length of } s \le 4 \cdot 10^5$
+- $s$ is composed of any of the following: English alphabetic letters, blank spaces, exclamation points (`!`), commas (`,`), question marks (`?`), periods (`.`), underscores (`_`), apostrophes (`'`), and at symbols (`@`).
 
-Sample Input
+## Output Format
 
+On the first line, print an integer, $n$, denoting the number of tokens in string $s$ (they do not need to be unique). Next, print each of the $n$ tokens on a new line in the same order as they appear in input string $s$.
+
+## Sample Input
+
+```text
 He is a very very good boy, isn't he?
-Sample Output
+```
 
+## Sample Output
+
+```text
 10
 He
 is
@@ -29,6 +38,14 @@ boy
 isn
 t
 he
-Explanation
+```
 
-We consider a token to be a contiguous segment of alphabetic characters. There are a total of  such tokens in string , and each token is printed in the same order in which it appears in string .
+## Explanation
+
+We consider a token to be a contiguous segment of alphabetic characters. There are a total of $10$ such tokens in string $s$, and each token is printed in the same order in which it appears in string $s$.
+
+---
+
+## Solution
+
+The Java solution can be found here: [Solution.java](../src/main/java/problem_0020/Solution.java)

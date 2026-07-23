@@ -1,27 +1,41 @@
-You are given a class Solution and its main method in the editor.
-Your task is to create the class Add and the required methods so that the code prints the sum of the numbers passed to the function add.
+# [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)
 
-Note: Your add method in the Add class must print the sum as given in the Sample Output
+You are given a class `Solution` and its `main` method in the editor.
+Your task is to create the class `Add` and the required methods so that the code prints the sum of the numbers passed to the function `add`.
 
-Input Format
+> [!NOTE]
+> Your `add` method in the `Add` class must print the sum as given in the Sample Output.
+
+## Input Format
 
 There are six lines of input, each containing an integer.
 
-Output Format
+## Output Format
 
-There will be only four lines of output. Each line contains the sum of the integers passed as the parameters to add in the main method.
+There will be only four lines of output. Each line contains the sum of the integers passed as the parameters to `add` in the `main` method.
 
-Sample Input
+## Sample Input
 
+```text
 1
 2
 3
 4
 5
 6
-Sample Output
+```
 
+## Sample Output
+
+```text
 1+2=3
 1+2+3=6
 1+2+3+4+5=15
 1+2+3+4+5+6=21
+```
+
+---
+
+## Solution
+
+The Java solution can be found here: [Solution.java](../src/main/java/problem_0014/Solution.java)

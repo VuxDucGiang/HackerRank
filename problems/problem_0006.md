@@ -39,3 +39,9 @@ Print $10$ lines of output; each line $i$ (where $1 \le i \le 10$) contains the 
 2 x 9 = 18
 2 x 10 = 20
 ```
+
+---
+
+## Solution
+
+The Java solution can be found here: [Solution.java](../src/main/java/problem_0006/Solution.java)
