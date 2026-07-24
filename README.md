@@ -34,6 +34,7 @@ Here is the list of problems resolved in this repository:
 | **`0022`** | Java Regex | [problem_0022.md](problems/problem_0022.md) | [HackerRank](https://www.hackerrank.com/challenges/java-regex) | [Solution.java](src/main/java/problem_0022/Solution.java) | `Medium` |
 | **`0023`** | Java SHA-256 | [problem_0023.md](problems/problem_0023.md) | [HackerRank](https://www.hackerrank.com/challenges/sha-256) | [Solution.java](src/main/java/problem_0023/Solution.java) | `Easy` |
 | **`0024`** | Java Inheritance I | [problem_0024.md](problems/problem_0024.md) | [HackerRank](https://www.hackerrank.com/challenges/java-inheritance-1) | [Solution.java](src/main/java/problem_0024/Solution.java) | `Easy` |
+| **`0025`** | Java Inheritance II | [problem_0025.md](problems/problem_0025.md) | [HackerRank](https://www.hackerrank.com/challenges/java-inheritance-2) | [Solution.java](src/main/java/problem_0025/Solution.java) | `Easy` |
 
 ---
 
@@ -67,7 +68,8 @@ HackerRank/
 │   ├── problem_0021.md
 │   ├── problem_0022.md
 │   ├── problem_0023.md
-│   └── problem_0024.md
+│   ├── problem_0024.md
+│   └── problem_0025.md
 ├── src/main/java/             # Java solution implementations
 │   ├── problem_0001/Solution.java
 │   ├── problem_0002/Solution.java
@@ -92,7 +94,8 @@ HackerRank/
 │   ├── problem_0021/Solution.java
 │   ├── problem_0022/Solution.java
 │   ├── problem_0023/Solution.java
-│   └── problem_0024/Solution.java
+│   ├── problem_0024/Solution.java
+│   └── problem_0025/Solution.java
 └── README.md                  # Main overview of the repository
 ```
 
